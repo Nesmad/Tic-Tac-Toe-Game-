@@ -23,23 +23,19 @@ Tic-tac-toe is a game in which two players alternate sketching a 'O' or a 'X' in
 - Third: Have the second player go second with '0' symbol.
 - Forth: Keep alternating moves until one of the players has drawn a row of three symbols (horizontally, vertically, or diagonally) or until no one can win.
 
-## Links
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Working Example](https://trello.com/en) 
 
 ## Working example 
 A simple and short video to grasp the rules and the flow of the game. (Attached below in links)
 
 ## Code
-The link to the game's code 
-
-What does your repository look like? Explain your folder and file structure.
-
+- Creat dictionnary with 9 keys
+- Set and print the board
+- set loops, functions 
+- Play the game 
+## Presentation: 
+slides attached below describe the work done
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en) 
+[Repository](https://github.com/Nesmad/Tic-Tac-Toe-Game-)  
+[Slides](https://github.com/Nesmad/Tic-Tac-Toe-Game-/blob/main/Tic-Tac-Toe%20Project%20Presentation%20%5BDAFT%20NOV%202021%5D.pptx)  
+[Working Example](https://www.youtube.com/watch?v=USEjXNCTvcc) 
