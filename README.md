@@ -9,8 +9,7 @@
 ## Content
 - [Project Description](#project-description)
 - [Rules](#rules)
-- [Rules](#rules)
-- [Working example](#working example)
+- [Working example](#rules)
 - [Working example](#working example)
 - [Coding](#coding)
 - [Presentation](#presentation)
